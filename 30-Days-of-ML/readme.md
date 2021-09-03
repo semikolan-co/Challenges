@@ -17,14 +17,14 @@ This is just a template and there won't be any limitation of format or anything.
 
 ## Links 
 
-### These are the comprehensive names of those who took the challenge with their repository and their works:
+These are the comprehensive names of those who took the challenge with their repository and their works:
 
 - [Sample Name](https://github.com/sample-profile): [Github Repository](https://github.com), [Any other links](https://blog.semikolan.co), [More links](https://semikolan.co)
 - [Ankur Gupta](https://github.com/ankurg132): [Github Repository](https://github.com/ankurg132/30-Days-of-ML-Semikolan)
 
 ## Resources
 
-### These are some of the resources the community has used throughout the challenge:
+These are some of the resources the community has used throughout the challenge:
 
 - [Machine Learning Playlist by Codewithharry](https://youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG)
 - [Machine Learning by Andrew Ng offered by Stanford on Coursera](https://www.coursera.org/learn/machine-learning)
