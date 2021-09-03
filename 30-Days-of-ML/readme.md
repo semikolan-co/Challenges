@@ -39,4 +39,4 @@ This is just a template and there won't be any limitation of format or anything.
 
 ## Contribution
 
-### Feel free to add an issue or a pull request, if you're working on the challenge, you can add your names to the Links above and the resources you're using to the Resources mentioned above.
+Feel free to add an issue or a pull request, if you're working on the challenge, you can add your names to the Links above and the resources you're using to the Resources mentioned above.
