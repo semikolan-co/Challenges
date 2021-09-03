@@ -21,6 +21,7 @@ These are the comprehensive names of those who took the challenge with their rep
 
 - [Sample Name](https://github.com/sample-profile): [Github Repository](https://github.com), [Any other links](https://blog.semikolan.co), [More links](https://semikolan.co)
 - [Ankur Gupta](https://github.com/ankurg132): [Github Repository](https://github.com/ankurg132/30-Days-of-ML-Semikolan)
+- [Harsh Vishwakarma](https://github.com/meinhoonharsh): [Github Repository](https://github.com/meinhoonharsh/30-Days-of-ML-Challenge)
 
 ## Resources
 
