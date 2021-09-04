@@ -23,6 +23,7 @@ These are the comprehensive names of those who took the challenge with their rep
 - [Ankur Gupta](https://github.com/ankurg132) : [Github Repository](https://github.com/ankurg132/30-Days-of-ML-Semikolan)
 - [Harsh Vishwakarma](https://github.com/meinhoonharsh) : [Github Repository](https://github.com/meinhoonharsh/30-Days-of-ML-Challenge)
 - [Rajat Bhaskare](https://github.com/RajatBhaskare7) : [Github Repository](https://github.com/RajatBhaskare7/30-days-of-ML)
+- [Ujjwal Agrawal](https://github.com/ujjwalagrawal22): [Github Repository](https://github.com/ujjwalagrawal22/30_days_ML_challenge)
 ## Resources
 
 These are some of the resources the community has used throughout the challenge:
