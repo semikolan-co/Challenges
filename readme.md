@@ -3,3 +3,4 @@ SemiKolan Organizes various Learning Challanges for the Developers, So that they
 
 ## Various Challenges community is working on:
  - [30 Days Of ML Challenge](/30-Days-of-ML)
+ - [30 Days 10 Projects Challenge](/30-Days-10-Projects)
