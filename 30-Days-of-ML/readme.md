@@ -8,7 +8,11 @@ The 30 Days of ML Challenge is a challenge where you can learn anything you want
 
 In this challenge, people will post daily updates about whatever they've learned, be it any videos lectures, blog, project or anything else. 
 
-Here is a sample of what the message may look like in our Discord server - 
+## How to Start
+
+To begin the challenge, you need to join our [Discord](https://discord.semikolan.co) and post your daily learnings. You should also tell us your projects or works you've created under the challenge by adding their links below. 
+
+Here is a sample of what the message may look like in our [Discord](https://discord.semikolan.co) server - 
 
 Day 1, 
 Started with Introduction to ML course by Andrew Ng, learned about linear regression in lecture 1
