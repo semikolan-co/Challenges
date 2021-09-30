@@ -30,7 +30,7 @@ These are the comprehensive names of those who took the challenge with their rep
 These are some of the resources the community has used throughout the challenge:
 
 - [Machine Learning Playlist by Codewithharry](https://youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG)
-- [Machine Learning by Andrew Ng offered by Stanford on Coursera](https://www.coursera.org/learn/machine-learning)
+- [Machine Learning by Andrew Ng offered by Stanford on Coursera](https://www.coursera.org/learn/machine-learning) Direct link: [CS 229 Stanford](http://cs229.stanford.edu)
 - [Introduction to Machine Learning by Lawrence Carin on Coursera](https://www.coursera.org/learn/machine-learning-duke)
 - [Machine Learning  with Python by Saeed Aghabozorgi on EdX](https://www.edx.org/course/machine-learning-with-python-a-practical-introduct)
 - [JavaTPoint Tutorial Series for Machine Learning](https://www.javatpoint.com/machine-learning)
