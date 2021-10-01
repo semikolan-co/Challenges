@@ -37,12 +37,15 @@ These are some of the resources the community has used throughout the challenge:
 - [Machine Learning by Andrew Ng offered by Stanford on Coursera](https://www.coursera.org/learn/machine-learning) Direct link: [CS 229 Stanford](http://cs229.stanford.edu)
 - [Introduction to Machine Learning by Lawrence Carin on Coursera](https://www.coursera.org/learn/machine-learning-duke)
 - [Machine Learning  with Python by Saeed Aghabozorgi on EdX](https://www.edx.org/course/machine-learning-with-python-a-practical-introduct)
+- [Kaggle Free ML Course with Free Certification](https://www.kaggle.com/learn)
 - [JavaTPoint Tutorial Series for Machine Learning](https://www.javatpoint.com/machine-learning)
 - [FreecodeCamp Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 - [FreecodeCamp Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 - [Freecodecamp Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 - [Freecodecamp Roadmap for Machine Learning and Data Science](https://www.freecodecamp.org/news/first-steps-to-learn-data-science-or-ml-after-the-roadmap/)
 - [Elements of AI](https://course.elementsofai.com/)
+- [Interview Questions](https://www.interviewbit.com/machine-learning-interview-questions/)
+- [Grokking Deep Learning(Book)](https://github.com/iamtrask/Grokking-Deep-Learning)
 
 ## Contribution
 
