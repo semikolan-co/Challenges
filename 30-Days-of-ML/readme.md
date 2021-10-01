@@ -46,6 +46,7 @@ These are some of the resources the community has used throughout the challenge:
 - [Elements of AI](https://course.elementsofai.com/)
 - [Interview Questions](https://www.interviewbit.com/machine-learning-interview-questions/)
 - [Grokking Deep Learning(Book)](https://github.com/iamtrask/Grokking-Deep-Learning)
+- [Google's Machine Learning Course](https://developers.google.com/machine-learning/crash-course)
 
 ## Contribution
 
