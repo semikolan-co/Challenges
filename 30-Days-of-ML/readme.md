@@ -23,12 +23,12 @@ This is just a template and there won't be any limitation of format or anything.
 
 These are the comprehensive names of those who took the challenge with their repository and their works:
 
-- [Sample Name](https://github.com/sample-profile) : [Github Repository](https://github.com), [Any other links](https://blog.semikolan.co), [More links](https://semikolan.co)
 - [Ankur Gupta](https://github.com/ankurg132) : [Github Repository](https://github.com/ankurg132/30-Days-of-ML-Semikolan)
 - [Harsh Vishwakarma](https://github.com/meinhoonharsh) : [Github Repository](https://github.com/meinhoonharsh/30-Days-of-ML-Challenge)
 - [Rajat Bhaskare](https://github.com/RajatBhaskare7) : [Github Repository](https://github.com/RajatBhaskare7/30-days-of-ML)
 - [Ujjwal Agrawal](https://github.com/ujjwalagrawal22): [Github Repository](https://github.com/ujjwalagrawal22/30_days_ML_challenge)
 - [Sanskriti Gupta](https://github.com/sanskriti1701) : [Github Repository](https://github.com/sanskriti1701/30-Days-of-ML)
+
 ## Resources
 
 These are some of the resources the community has used throughout the challenge:
