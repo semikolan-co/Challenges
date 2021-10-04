@@ -47,6 +47,8 @@ These are some of the resources the community has used throughout the challenge:
 - [Interview Questions](https://www.interviewbit.com/machine-learning-interview-questions/)
 - [Grokking Deep Learning(Book)](https://github.com/iamtrask/Grokking-Deep-Learning)
 - [Google's Machine Learning Course](https://developers.google.com/machine-learning/crash-course)
+- [Fast.ai Practical Deep Learning for Coders](https://course.fast.ai/)
+- [Foundations and MLOps by Goku Mohandas](https://madewithml.com/)
 
 ## Contribution
 
