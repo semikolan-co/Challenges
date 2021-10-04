@@ -49,6 +49,7 @@ These are some of the resources the community has used throughout the challenge:
 - [Google's Machine Learning Course](https://developers.google.com/machine-learning/crash-course)
 - [Fast.ai Practical Deep Learning for Coders](https://course.fast.ai/)
 - [Foundations and MLOps by Goku Mohandas](https://madewithml.com/)
+- [Machine Learning](https://www.edx.org/course/machine-learning)
 
 ## Contribution
 
