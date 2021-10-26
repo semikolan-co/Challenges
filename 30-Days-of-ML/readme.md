@@ -51,6 +51,7 @@ These are some of the resources the community has used throughout the challenge:
 - [Foundations and MLOps by Goku Mohandas](https://madewithml.com/)
 - [Machine Learning](https://www.edx.org/course/machine-learning)
 - [Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+- [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python)
 
 ## Contribution
 
